@@ -30,7 +30,7 @@ Some notations in the table:
 ### Detailed scores
 
 
-## 📊 We-Bench Dataset
+## 📊 We-Math Dataset
 
 ### Statistics
 
