@@ -1,10 +1,10 @@
 # We-Math: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?
 
-<details>
+
 <p align="center">
     <img src="./examples/logo.png" width="100%"> <br>
 </p>
-</details>
+
 
 
 ## Outlines
