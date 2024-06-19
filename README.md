@@ -12,7 +12,9 @@
 
 
 ## 💥 News 💥
-
+  **[2023.6.21]** Our paper is now accessible at "".
+  **[2024.6.21]** Our dataset is now accessible at [Huggingface Datasets]("").
+  **[2024.6.21]** Our project homepage can be accessed at "".
 
 ## 👀 About We-Math
 
