@@ -5,6 +5,9 @@
     <img src="./examples/logo-another.png" width="55%"> <br>
 </p>
 
-🌟 __We will release the paper, the detailed results and guidelines of We-Math in 5 days!__ 🌟
+<div align="center">
+    
+🌟 **We will release the paper, detailed results and guidelines of We-Math in 5 days!** 🌟
 
- __Let's look forward to this interesting result together__
+ **Let's look forward to this interesting result together**
+</div>
