@@ -1,0 +1,538 @@
+[
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Measurement",
+        "root2":"Understanding and Conversion of Units",
+        "root3":"Conversion Rates and Calculations Between Area Units",
+        "root4":null,
+        "full node":"Measurement_Understanding and Conversion of Units_Conversion Rates and Calculations Between Area Units"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Measurement",
+        "root2":"Understanding and Conversion of Units",
+        "root3":"Conversion Rates and Calculations Between Volume Units (Including Liters and Milliliters)",
+        "root4":null,
+        "full node":"Measurement_Understanding and Conversion of Units_Conversion Rates and Calculations Between Volume Units (Including Liters and Milliliters)"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Measurement",
+        "root2":"Understanding and Conversion of Units",
+        "root3":"Conversion Rates and Calculations Between Length Units",
+        "root4":null,
+        "full node":"Measurement_Understanding and Conversion of Units_Conversion Rates and Calculations Between Length Units"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Measurement",
+        "root2":"Angles and Length",
+        "root3":"Understanding Angles (Using a Protractor)",
+        "root4":null,
+        "full node":"Measurement_Angles and Length_Understanding Angles (Using a Protractor)"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Measurement",
+        "root2":"Angles and Length",
+        "root3":"Understanding Length (Using a Ruler)",
+        "root4":null,
+        "full node":"Measurement_Angles and Length_Understanding Length (Using a Ruler)"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Solid Figures",
+        "root2":"Calculation of Solid Figures",
+        "root3":"Calculation of Surface Area of Solid Figures",
+        "root4":"Surface Area of Cylinders",
+        "full node":"Solid Figures_Calculation of Solid Figures_Calculation of Surface Area of Solid Figures_Surface Area of Cylinders"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Solid Figures",
+        "root2":"Calculation of Solid Figures",
+        "root3":"Calculation of Surface Area of Solid Figures",
+        "root4":"Surface Area of Rectangular Cuboids",
+        "full node":"Solid Figures_Calculation of Solid Figures_Calculation of Surface Area of Solid Figures_Surface Area of Rectangular Cuboids"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Solid Figures",
+        "root2":"Calculation of Solid Figures",
+        "root3":"Calculation of Surface Area of Solid Figures",
+        "root4":"Surface Area of Cubes",
+        "full node":"Solid Figures_Calculation of Solid Figures_Calculation of Surface Area of Solid Figures_Surface Area of Cubes"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Solid Figures",
+        "root2":"Calculation of Solid Figures",
+        "root3":"Calculation of Volume of Solid Figures",
+        "root4":"Volume and Capacity of Cylinders",
+        "full node":"Solid Figures_Calculation of Solid Figures_Calculation of Volume of Solid Figures_Volume and Capacity of Cylinders"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Solid Figures",
+        "root2":"Calculation of Solid Figures",
+        "root3":"Calculation of Volume of Solid Figures",
+        "root4":"Volume and Capacity of Cones",
+        "full node":"Solid Figures_Calculation of Solid Figures_Calculation of Volume of Solid Figures_Volume and Capacity of Cones"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Solid Figures",
+        "root2":"Calculation of Solid Figures",
+        "root3":"Calculation of Volume of Solid Figures",
+        "root4":"Volume and Capacity of Rectangular Cuboids",
+        "full node":"Solid Figures_Calculation of Solid Figures_Calculation of Volume of Solid Figures_Volume and Capacity of Rectangular Cuboids"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Solid Figures",
+        "root2":"Calculation of Solid Figures",
+        "root3":"Calculation of Volume of Solid Figures",
+        "root4":"Volume and Capacity of Cubes",
+        "full node":"Solid Figures_Calculation of Solid Figures_Calculation of Volume of Solid Figures_Volume and Capacity of Cubes"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Solid Figures",
+        "root2":"Understanding of Solid Figures",
+        "root3":"Expanded View of Solids",
+        "root4":"Expanded View of Cylinders",
+        "full node":"Solid Figures_Understanding of Solid Figures_Expanded View of Solids_Expanded View of Cylinders"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Solid Figures",
+        "root2":"Understanding of Solid Figures",
+        "root3":"Expanded View of Solids",
+        "root4":"Expanded View of Rectangular Cuboids",
+        "full node":"Solid Figures_Understanding of Solid Figures_Expanded View of Solids_Expanded View of Rectangular Cuboids"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Solid Figures",
+        "root2":"Understanding of Solid Figures",
+        "root3":"Expanded View of Solids",
+        "root4":"Expanded View of Cubes",
+        "full node":"Solid Figures_Understanding of Solid Figures_Expanded View of Solids_Expanded View of Cubes"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Solid Figures",
+        "root2":"Understanding of Solid Figures",
+        "root3":"Cylinders and Cones",
+        "root4":"Properties of Cylinders",
+        "full node":"Solid Figures_Understanding of Solid Figures_Cylinders and Cones_Properties of Cylinders"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Solid Figures",
+        "root2":"Understanding of Solid Figures",
+        "root3":"Cylinders and Cones",
+        "root4":"Properties of Cones",
+        "full node":"Solid Figures_Understanding of Solid Figures_Cylinders and Cones_Properties of Cones"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Solid Figures",
+        "root2":"Understanding of Solid Figures",
+        "root3":"Rectangular Cuboids and Cubes",
+        "root4":"Properties and Understanding of Rectangular Cuboids",
+        "full node":"Solid Figures_Understanding of Solid Figures_Rectangular Cuboids and Cubes_Properties and Understanding of Rectangular Cuboids"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Solid Figures",
+        "root2":"Understanding of Solid Figures",
+        "root3":"Rectangular Cuboids and Cubes",
+        "root4":"Properties and Understanding of Cubes",
+        "full node":"Solid Figures_Understanding of Solid Figures_Rectangular Cuboids and Cubes_Properties and Understanding of Cubes"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Solid Figures",
+        "root2":"Understanding of Solid Figures",
+        "root3":"Observing Objects",
+        "root4":null,
+        "full node":"Solid Figures_Understanding of Solid Figures_Observing Objects"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Calculation of Plane Figures",
+        "root3":"Sum of Interior Angles of Polygons",
+        "root4":"Sum of Interior Angles of Other Polygons",
+        "full node":"Plane Figures_Calculation of Plane Figures_Sum of Interior Angles of Polygons_Sum of Interior Angles of Other Polygons"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Calculation of Plane Figures",
+        "root3":"Sum of Interior Angles of Polygons",
+        "root4":"Sum of Interior Angles of Triangles",
+        "full node":"Plane Figures_Calculation of Plane Figures_Sum of Interior Angles of Polygons_Sum of Interior Angles of Triangles"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Calculation of Plane Figures",
+        "root3":"Calculation and Comparison of Angles",
+        "root4":null,
+        "full node":"Plane Figures_Calculation of Plane Figures_Calculation and Comparison of Angles"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Calculation of Plane Figures",
+        "root3":"Calculation of Areas",
+        "root4":"Area of Parallelograms",
+        "full node":"Plane Figures_Calculation of Plane Figures_Calculation of Areas_Area of Parallelograms"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Calculation of Plane Figures",
+        "root3":"Calculation of Areas",
+        "root4":"Area of Triangles",
+        "full node":"Plane Figures_Calculation of Plane Figures_Calculation of Areas_Area of Triangles"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Calculation of Plane Figures",
+        "root3":"Calculation of Areas",
+        "root4":"Area of Sectors",
+        "full node":"Plane Figures_Calculation of Plane Figures_Calculation of Areas_Area of Sectors"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Calculation of Plane Figures",
+        "root3":"Calculation of Areas",
+        "root4":"Area of Trapezoids",
+        "full node":"Plane Figures_Calculation of Plane Figures_Calculation of Areas_Area of Trapezoids"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Calculation of Plane Figures",
+        "root3":"Calculation of Areas",
+        "root4":"Area of Circles",
+        "full node":"Plane Figures_Calculation of Plane Figures_Calculation of Areas_Area of Circles"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Calculation of Plane Figures",
+        "root3":"Calculation of Areas",
+        "root4":"Area of Rectangles",
+        "full node":"Plane Figures_Calculation of Plane Figures_Calculation of Areas_Area of Rectangles"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Calculation of Plane Figures",
+        "root3":"Calculation of Areas",
+        "root4":"Area of Squares",
+        "full node":"Plane Figures_Calculation of Plane Figures_Calculation of Areas_Area of Squares"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Calculation of Plane Figures",
+        "root3":"Calculation of Perimeters",
+        "root4":"Perimeter of Parallelograms",
+        "full node":"Plane Figures_Calculation of Plane Figures_Calculation of Perimeters_Perimeter of Parallelograms"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Calculation of Plane Figures",
+        "root3":"Calculation of Perimeters",
+        "root4":"Perimeter of Triangles",
+        "full node":"Plane Figures_Calculation of Plane Figures_Calculation of Perimeters_Perimeter of Triangles"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Calculation of Plane Figures",
+        "root3":"Calculation of Perimeters",
+        "root4":"Perimeter of Trapezoids",
+        "full node":"Plane Figures_Calculation of Plane Figures_Calculation of Perimeters_Perimeter of Trapezoids"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Calculation of Plane Figures",
+        "root3":"Calculation of Perimeters",
+        "root4":"Circumference of Circles",
+        "full node":"Plane Figures_Calculation of Plane Figures_Calculation of Perimeters_Circumference of Circles"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Calculation of Plane Figures",
+        "root3":"Calculation of Perimeters",
+        "root4":"Perimeter of Rectangles",
+        "full node":"Plane Figures_Calculation of Plane Figures_Calculation of Perimeters_Perimeter of Rectangles"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Calculation of Plane Figures",
+        "root3":"Calculation of Perimeters",
+        "root4":"Perimeter of Squares",
+        "full node":"Plane Figures_Calculation of Plane Figures_Calculation of Perimeters_Perimeter of Squares"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Understanding of Plane Figures",
+        "root3":"Polygons",
+        "root4":"Properties and Understanding of Parallelograms",
+        "full node":"Plane Figures_Understanding of Plane Figures_Polygons_Properties and Understanding of Parallelograms"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Understanding of Plane Figures",
+        "root3":"Polygons",
+        "root4":"Properties and Understanding of Triangles",
+        "full node":"Plane Figures_Understanding of Plane Figures_Polygons_Properties and Understanding of Triangles"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Understanding of Plane Figures",
+        "root3":"Polygons",
+        "root4":"Properties and Understanding of Trapezoids",
+        "full node":"Plane Figures_Understanding of Plane Figures_Polygons_Properties and Understanding of Trapezoids"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Understanding of Plane Figures",
+        "root3":"Polygons",
+        "root4":"Properties and Understanding of Rectangles",
+        "full node":"Plane Figures_Understanding of Plane Figures_Polygons_Properties and Understanding of Rectangles"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Understanding of Plane Figures",
+        "root3":"Polygons",
+        "root4":"Properties and Understanding of Squares",
+        "full node":"Plane Figures_Understanding of Plane Figures_Polygons_Properties and Understanding of Squares"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Understanding of Plane Figures",
+        "root3":"Classification and Understanding of Angles",
+        "root4":"Understanding Triangular Rulers",
+        "full node":"Plane Figures_Understanding of Plane Figures_Classification and Understanding of Angles_Understanding Triangular Rulers"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Understanding of Plane Figures",
+        "root3":"Classification and Understanding of Angles",
+        "root4":"Understanding and Representing Angles",
+        "full node":"Plane Figures_Understanding of Plane Figures_Classification and Understanding of Angles_Understanding and Representing Angles"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Understanding of Plane Figures",
+        "root3":"Properties and Understanding of Line Segments",
+        "root4":"Distance Between Two Points",
+        "full node":"Plane Figures_Understanding of Plane Figures_Properties and Understanding of Line Segments_Distance Between Two Points"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Understanding of Plane Figures",
+        "root3":"Properties and Understanding of Line Segments",
+        "root4":"Understanding Line Segments, Lines, and Rays",
+        "full node":"Plane Figures_Understanding of Plane Figures_Properties and Understanding of Line Segments_Understanding Line Segments, Lines, and Rays"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Understanding of Plane Figures",
+        "root3":"Positional Relationships Between Line Segments",
+        "root4":"perpendicularity",
+        "full node":"Plane Figures_Understanding of Plane Figures_Positional Relationships Between Line Segments_perpendicularity"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Understanding of Plane Figures",
+        "root3":"Positional Relationships Between Line Segments",
+        "root4":"Parallel",
+        "full node":"Plane Figures_Understanding of Plane Figures_Positional Relationships Between Line Segments_Parallel"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Understanding of Plane Figures",
+        "root3":"Circles and Sectors",
+        "root4":"Understanding Sectors",
+        "full node":"Plane Figures_Understanding of Plane Figures_Circles and Sectors_Understanding Sectors"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Understanding of Plane Figures",
+        "root3":"Circles and Sectors",
+        "root4":"Understanding Circles",
+        "full node":"Plane Figures_Understanding of Plane Figures_Circles and Sectors_Understanding Circles"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Plane Figures",
+        "root2":"Understanding of Plane Figures",
+        "root3":"Observing Figures",
+        "root4":null,
+        "full node":"Plane Figures_Understanding of Plane Figures_Observing Figures"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Transformation and Motion of Figures",
+        "root2":"Basic Transformations of Figures",
+        "root3":"Axial Symmetry",
+        "root4":null,
+        "full node":"Transformation and Motion of Figures_Basic Transformations of Figures_Axial Symmetry"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Transformation and Motion of Figures",
+        "root2":"Basic Transformations of Figures",
+        "root3":"Translation",
+        "root4":null,
+        "full node":"Transformation and Motion of Figures_Basic Transformations of Figures_Translation"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Transformation and Motion of Figures",
+        "root2":"Basic Transformations of Figures",
+        "root3":"Rotation",
+        "root4":null,
+        "full node":"Transformation and Motion of Figures_Basic Transformations of Figures_Rotation"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Transformation and Motion of Figures",
+        "root2":"Cutting and Combining of Figures",
+        "root3":"Combining and Dividing Solids",
+        "root4":null,
+        "full node":"Transformation and Motion of Figures_Cutting and Combining of Figures_Combining and Dividing Solids"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Transformation and Motion of Figures",
+        "root2":"Cutting and Combining of Figures",
+        "root3":"Combining Plane Figures",
+        "root4":"Division of Plane Figures",
+        "full node":"Transformation and Motion of Figures_Cutting and Combining of Figures_Combining Plane Figures_Division of Plane Figures"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Transformation and Motion of Figures",
+        "root2":"Cutting and Combining of Figures",
+        "root3":"Combining Plane Figures",
+        "root4":"Combining Plane Figures",
+        "full node":"Transformation and Motion of Figures_Cutting and Combining of Figures_Combining Plane Figures_Combining Plane Figures"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Transformation and Motion of Figures",
+        "root2":"Cutting and Combining of Figures",
+        "root3":"Combining Plane Figures",
+        "root4":"Tessellation of Figures",
+        "full node":"Transformation and Motion of Figures_Cutting and Combining of Figures_Combining Plane Figures_Tessellation of Figures"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Transformation and Motion of Figures",
+        "root2":"Cutting and Combining of Figures",
+        "root3":"Combining Plane Figures",
+        "root4":"Folding Problems of Figures",
+        "full node":"Transformation and Motion of Figures_Cutting and Combining of Figures_Combining Plane Figures_Folding Problems of Figures"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Position and Direction",
+        "root2":"Direction",
+        "root3":"Southeast, Southwest, Northeast, Northwest Directions",
+        "root4":null,
+        "full node":"Position and Direction_Direction_Southeast, Southwest, Northeast, Northwest Directions"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Position and Direction",
+        "root2":"Direction",
+        "root3":"Cardinal Directions (East, South, West, North)",
+        "root4":null,
+        "full node":"Position and Direction_Direction_Cardinal Directions (East, South, West, North)"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Position and Direction",
+        "root2":"Route Map",
+        "root3":"Determining the Positions of Objects Based on Direction, Angle, and Distance",
+        "root4":null,
+        "full node":"Position and Direction_Route Map_Determining the Positions of Objects Based on Direction, Angle, and Distance"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Position and Direction",
+        "root2":"Route Map",
+        "root3":"Describing Simple Routes Based on Direction and Distance",
+        "root4":null,
+        "full node":"Position and Direction_Route Map_Describing Simple Routes Based on Direction and Distance"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Position and Direction",
+        "root2":"Correspondence of Coordinates and Positions",
+        "root3":"Representing Positions Using Ordered Pairs",
+        "root4":null,
+        "full node":"Position and Direction_Correspondence of Coordinates and Positions_Representing Positions Using Ordered Pairs"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Position and Direction",
+        "root2":"Correspondence of Coordinates and Positions",
+        "root3":"Finding Positions Based on Ordered Pairs",
+        "root4":null,
+        "full node":"Position and Direction_Correspondence of Coordinates and Positions_Finding Positions Based on Ordered Pairs"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Position and Direction",
+        "root2":"Position",
+        "root3":"Front-Back Position",
+        "root4":null,
+        "full node":"Position and Direction_Position_Front-Back Position"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Position and Direction",
+        "root2":"Position",
+        "root3":"Up-Down Position",
+        "root4":null,
+        "full node":"Position and Direction_Position_Up-Down Position"
+    },
+    {
+        "root0":"Geometry and Figures",
+        "root1":"Position and Direction",
+        "root2":"Position",
+        "root3":"Left-Right Position",
+        "root4":null,
+        "full node":"Position and Direction_Position_Left-Right Position"
+    }
+]
