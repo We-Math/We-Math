@@ -44,6 +44,7 @@ We firstly <b>decompose composite problems into sub-problems</b> according to th
     The pipeline of knowledge-based data decomposition (left) and an example of the four-dimensional metrics for evaluating a two-step problem (right), using both loose and strict settings.
 </p>
 
+
 With We-Math, we conduct a thorough evaluation of existing LMMs in visual mathematical reasoning and reveal a negative correlation between solving step and problem-specific performance. We confirm the IK issue of LMMs can be effectively improved via knowledge augmentation strategy. More notably, <b>the primary challenge of GPT-4o has significantly transitioned from IK to IG, establishing it as the first LMM advancing towards the knowledge generalization stage.</b> In contrast, other LMMs exhibit a marked inclination towards Rote Memorization they correctly solve composite problems involving multiple knowledge concepts, yet fail in answering sub-problems. We anticipate that We-Math will open new pathways for advancements in visual mathematical reasoning for LMMs.
 
 <p align="center">
@@ -141,4 +142,6 @@ TODO
 
 
 ## 🤝 Contributors
+Here are the key contributors to this project:
 
+Runqi Qiao, Qiuna Tan, Guanting Dong, Minhui Wu, Chong Sun, Xiaoshuai Song, Zhuoma GongQue, Shanglin Lei, Zhe Wei, Miaoxuan Zhang, Runfeng Qiao, Yifan Zhang, Xiao Zong, Yida Xu, Muxi Diao, Zhimin Bao, Chen Li, Honggang Zhang.
