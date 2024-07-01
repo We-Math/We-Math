@@ -5,7 +5,7 @@
 ![Mathematical Reasoning](https://img.shields.io/badge/Task-Mathematical_Reasoning-red) 
 
 <p align="center">
-    <img src="./examples/logo-another.png" width="35%"> <br>
+    <img src="./assets/logo-another.png" width="35%"> <br>
 </p>
 
 ## Outlines
@@ -25,7 +25,7 @@
   **[2024.6.21]** Our project homepage can be accessed at "https://we-math.github.io/".
 
 ## 👀 About We-Math
-Inspired by human-like mathematical reasoning, we introduce We-Math, the first benchmark specifically designed to explore the problem-solving principles beyond the end-to-end performance.We meticulously collect and categorize 6.5K visual math problems, spanning 67 hierarchical knowledge concepts and 5 layers of knowledge granularity.
+Inspired by human-like mathematical reasoning, we introduce We-Math, the first benchmark specifically designed to <b>explore the problem-solving principles beyond the end-to-end performance.</b> We meticulously collect and categorize 6.5K visual math problems, spanning 67 hierarchical knowledge concepts and 5 layers of knowledge granularity.
 
 <p align="center">
     <img src="assets/fig_lun.png" alt="Overview diagram and the statistics of WE-MATH" style="width: 85%;" /> <br>
@@ -44,7 +44,7 @@ We firstly <b>decompose composite problems into sub-problems</b> according to th
     The pipeline of knowledge-based data decomposition (left) and an example of the four-dimensional metrics for evaluating a two-step problem (right), using both loose and strict settings.
 </p>
 
-With We-Math, we conduct a thorough evaluation of existing LMMs in visual mathematical reasoning and reveal a negative correlation between solving step and problem-specific performance. We confirm the IK issue of LMMs can be effectively improved via knowledge augmentation strategy. More notably, the primary challenge of GPT-4o has significantly transitioned from IK to IG, establishing it as the first LMM advancing towards the knowledge generalization stage. In contrast, other LMMs exhibit a marked inclination towards Rote Memorization they correctly solve composite problems involving multiple knowledge concepts, yet fail in answering sub-problems. We anticipate that We-Math will open new pathways for advancements in visual mathematical reasoning for LMMs.
+With We-Math, we conduct a thorough evaluation of existing LMMs in visual mathematical reasoning and reveal a negative correlation between solving step and problem-specific performance. We confirm the IK issue of LMMs can be effectively improved via knowledge augmentation strategy. More notably, <b>the primary challenge of GPT-4o has significantly transitioned from IK to IG, establishing it as the first LMM advancing towards the knowledge generalization stage.</b> In contrast, other LMMs exhibit a marked inclination towards Rote Memorization they correctly solve composite problems involving multiple knowledge concepts, yet fail in answering sub-problems. We anticipate that We-Math will open new pathways for advancements in visual mathematical reasoning for LMMs.
 
 <p align="center">
     <img src="assets/fig1_result.png" alt="pipeline of decomposition" style="width: 95%;" /> <br>
@@ -113,7 +113,7 @@ Based on the decomposed multi-step problems, we further reveal the inherent issu
 <details>
 <summary>🔍Examples of samples.</summary>
 <p align="center">
-    <img src="" width="90%"> <br>
+    <img src="assets/example-2.png" width="90%"> <br>
 </p>
 </details>
 
@@ -121,7 +121,7 @@ Based on the decomposed multi-step problems, we further reveal the inherent issu
 <details>
 <summary>🔍Examples of Knowledge cards.</summary>
 <p align="center">
-    <img src="" width="90%"> <br>
+    <img src="assets/example-card.png" width="90%"> <br>
 </p>
 </details>
 
