@@ -79,7 +79,7 @@ The models generate responses based on the given questions and images. Examples 
 }
 ```
 ### Score Calculation
-Due to the multiple-choice question format of our dataset and the specific answer generation prompt, we use string matching to directly extract answers, which eliminates the high cost of using additional models for further answer extraction.  The extracted answer is normalized to an option letter and calculate scores on our proposed four-dimensional metrics in [four_dimensional_metrics.py](https://github.com/We-Math/We-Math/evaluation/four_dimensional_metrics.py).
+Due to the multiple-choice question format of our dataset and the specific answer generation prompt, we use string matching to directly extract answers, which eliminates the high cost of using additional models for further answer extraction.  The extracted answer is normalized to an option letter and calculate scores on our proposed four-dimensional metrics in [four_dimensional_metrics.py](https://github.com/We-Math/We-Math/blob/main/evaluation/four_dimensional_metrics.py).
 ```sh
 cd evaluation
 
@@ -89,7 +89,7 @@ python four_dimensional_metrics_refine.py \
 --main_results_csv_path ../result/four_dimensional_metrics.csv
 ```
 
-Performences on One-Step / Two-Step / Three-Step problems and different problem domains are obtained from [accuracy.py](https://github.com/We-Math/We-Math/evaluation/accuracy.py).
+Performences on One-Step / Two-Step / Three-Step problems and different problem domains are obtained from [accuracy.py](https://github.com/We-Math/We-Math/blob/main/evaluation/accuracy.py).
 
 ```sh
 cd evaluation
