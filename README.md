@@ -1,4 +1,4 @@
-# We-Math: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?
+# [We-Math: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?](https://arxiv.org/pdf/2407.01284)
 
 ![Dataset](https://img.shields.io/badge/Dataset-We--Math-green)
 ![Multi-Modal](https://img.shields.io/badge/Task-Multi--Modal-red)
