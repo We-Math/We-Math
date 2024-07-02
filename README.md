@@ -18,9 +18,9 @@
 - [🤝 Contributors](https://github.com/We-Math/We-Math/blob/main/README.md#-contributors)
 
 ## 💥 News 💥
-  **[2023.7.2]** Our paper is now accessible at "".
+  **[2023.7.2]** Our paper is now accessible at "https://arxiv.org/abs/2407.01284".
   
-  **[2024.7.2]** Our dataset is now accessible at "".
+  **[2024.7.2]** Our dataset is now accessible at "https://huggingface.co/datasets/We-Math/We-Math/tree/main".
   
   **[2024.7.2]** Our project homepage can be accessed at "https://we-math.github.io/".
 
