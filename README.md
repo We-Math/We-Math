@@ -41,7 +41,7 @@ We firstly <b>decompose composite problems into sub-problems</b> according to th
 
 <p align="center">
     <img src="assets/metric_2.png" alt="The pipeline of knowledge-based data decomposition (left) and an example of the four-dimensional metrics for evaluating a two-step problem (right), using both loose and strict settings." style="width: 95%;" /> <br>
-    The pipeline of knowledge-based data decomposition (left) and an example of the four-dimensional metrics for evaluating a two-step problem (right), using both loose and strict settings.
+    An example of the four-dimensional metrics for evaluating a two-step problem, using both loose and strict settings.
 </p>
 
 
