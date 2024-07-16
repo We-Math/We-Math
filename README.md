@@ -137,14 +137,11 @@ Our dataset are distributed under the [CC BY-NC 4.0](https://creativecommons.org
 If you find **We-Math** useful for your your research and applications, please kindly cite using this BibTeX:
 
 ```bibtex
-@misc{qiao2024wemathdoeslargemultimodal,
-      title={We-Math: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?}, 
-      author={Runqi Qiao and Qiuna Tan and Guanting Dong and Minhui Wu and Chong Sun and Xiaoshuai Song and Zhuoma GongQue and Shanglin Lei and Zhe Wei and Miaoxuan Zhang and Runfeng Qiao and Yifan Zhang and Xiao Zong and Yida Xu and Muxi Diao and Zhimin Bao and Chen Li and Honggang Zhang},
-      year={2024},
-      eprint={2407.01284},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2407.01284}, 
+@article{qiao2024we,
+  title={We-Math: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?},
+  author={Qiao, Runqi and Tan, Qiuna and Dong, Guanting and Wu, Minhui and Sun, Chong and Song, Xiaoshuai and GongQue, Zhuoma and Lei, Shanglin and Wei, Zhe and Zhang, Miaoxuan and others},
+  journal={arXiv preprint arXiv:2407.01284},
+  year={2024}
 }
 ```
 
