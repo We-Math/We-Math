@@ -115,4 +115,3 @@ if __name__ == "__main__":
     args = parse_arguments()
     evaluate_models(args.model_name, args.output_json, args.knowledge_structure_nodes_path)
 
-# python ./evaluation/accuracy.py --model_name DeepSeek-VL-1.3B --output_json /Users/mac/Desktop/kp/test/DeepSeek-VL-1.3B.json --knowledge_structure_nodes_path ~/Desktop/测试结果/knowledge_structure_nodes.json
