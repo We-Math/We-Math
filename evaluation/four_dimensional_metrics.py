@@ -146,8 +146,3 @@ if __name__ == "__main__":
     args = parse_arguments()
     evaluate_models(args.model_name, args.output_json)
 
-
-# python four_dimensional_metrics_refine.py --output_json /Users/mac/Desktop/kp/ --knowledge_structure_nodes_path /Users/mac/Desktop/测试结果/knowledge_structure_nodes.json --main_results_csv_path /Users/mac/Desktop/kp/main_result_refine.csv
-    
-# python ./evaluation/four_dimensional_metrics_refine.py --model_name LLaVA13BKP --output_json /Users/mac/Desktop/kp/LLaVA-13B.json 
-# python four_dimensional_metrics_refine.py --model_name GLLAVA13B --output_json /Users/mac/Desktop/no-kp/gllava-13b_0626.json
