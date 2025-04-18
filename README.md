@@ -138,12 +138,37 @@ If you find **We-Math** useful for your your research and applications, please k
 
 ```bibtex
 @article{qiao2024we,
-  title={We-math: Does your large multimodal model achieve human-like mathematical reasoning?},
-  author={Qiao, Runqi and Tan, Qiuna and Dong, Guanting and Wu, Minhui and Sun, Chong and Song, Xiaoshuai and GongQue, Zhuoma and Lei, Shanglin and Wei, Zhe and Zhang, Miaoxuan and others},
-  journal={arXiv preprint arXiv:2407.01284},
-  year={2024}
+  author       = {Runqi Qiao and
+                  Qiuna Tan and
+                  Guanting Dong and
+                  Minhui Wu and
+                  Chong Sun and
+                  Xiaoshuai Song and
+                  Zhuoma Gongque and
+                  Shanglin Lei and
+                  Zhe Wei and
+                  Miaoxuan Zhang and
+                  Runfeng Qiao and
+                  Yifan Zhang and
+                  Xiao Zong and
+                  Yida Xu and
+                  Muxi Diao and
+                  Zhimin Bao and
+                  Chen Li and
+                  Honggang Zhang},
+  title        = {We-Math: Does Your Large Multimodal Model Achieve Human-like Mathematical
+                  Reasoning?},
+  journal      = {CoRR},
+  volume       = {abs/2407.01284},
+  year         = {2024},
+  url          = {https://doi.org/10.48550/arXiv.2407.01284},
+  doi          = {10.48550/ARXIV.2407.01284},
+  eprinttype    = {arXiv},
+  eprint       = {2407.01284},
+  timestamp    = {Tue, 13 Aug 2024 12:02:59 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2407-01284.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
-
 ```
 
 
