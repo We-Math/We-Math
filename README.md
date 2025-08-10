@@ -18,13 +18,15 @@
 - [🤝 Contributors](https://github.com/We-Math/We-Math/blob/main/README.md#-contributors)
 
 ## 💥 News 💥
-  **[2025.5.16]** 🎉 We-Math is accepted by ACL 2025 🎉
+  **[2025.05.16]** 🎉 We-Math is accepted by ACL 2025 🎉
+
+  **[2025.02.20]** 🎉 We-Math is officially supported by [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) for fast evalution 🚀.
   
-  **[2024.7.2]** Our paper is now accessible at https://arxiv.org/abs/2407.01284.
+  **[2024.07.02]** Our paper is now accessible at https://arxiv.org/abs/2407.01284.
   
-  **[2024.7.2]** Our dataset is now accessible at [Huggingface Datasets](https://huggingface.co/datasets/We-Math/We-Math/).
+  **[2024.07.02]** Our dataset is now accessible at [Huggingface Datasets](https://huggingface.co/datasets/We-Math/We-Math/).
   
-  **[2024.7.2]** Our project homepage can be accessed at https://we-math.github.io/.
+  **[2024.07.02]** Our project homepage can be accessed at https://we-math.github.io/.
 
 ## 👀 About We-Math
 Inspired by human-like mathematical reasoning, we introduce We-Math, the first benchmark specifically designed to <b>explore the problem-solving principles beyond the end-to-end performance.</b> We meticulously collect and categorize 6.5K visual math problems, spanning 67 hierarchical knowledge concepts and 5 layers of knowledge granularity.
