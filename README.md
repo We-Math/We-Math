@@ -19,6 +19,7 @@
 
 ## 💥 News 💥
   **[2025.5.16]** 🎉 We-Math is accepted by ACL 2025 🎉
+  
   **[2024.7.2]** Our paper is now accessible at https://arxiv.org/abs/2407.01284.
   
   **[2024.7.2]** Our dataset is now accessible at [Huggingface Datasets](https://huggingface.co/datasets/We-Math/We-Math/).
