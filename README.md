@@ -8,14 +8,6 @@
     <img src="./assets/logo-another.png" width="35%"> <br>
 </p>
 
-## Outlines
-- [💥 News 💥](https://github.com/We-Math/We-Math/blob/main/README.md#-news-)
-- [👀 About We-Math](https://github.com/We-Math/We-Math/blob/main/README.md#-about-we-math)
-- [🏆 Leaderboard on We-Math 🏆](https://github.com/We-Math/We-Math/blob/main/README.md#-leaderboard-on-we-math-)
-- [📝 Evaluation Piplines on We-Math](https://github.com/We-Math/We-Math/blob/main/README.md#-evaluation-piplines-on-we-math)
-- [📊 We-Math Dataset](https://github.com/We-Math/We-Math/blob/main/README.md#-we-math-dataset)
-- [📜 License](https://github.com/We-Math/We-Math/blob/main/README.md#-license)
-- [🤝 Contributors](https://github.com/We-Math/We-Math/blob/main/README.md#-contributors)
 
 ## 💥 News 💥
   **[2025.05.16]** 🎉 We-Math is accepted by ACL 2025 🎉
@@ -27,6 +19,15 @@
   **[2024.07.02]** Our dataset is now accessible at [Huggingface Datasets](https://huggingface.co/datasets/We-Math/We-Math/).
   
   **[2024.07.02]** Our project homepage can be accessed at https://we-math.github.io/.
+
+## Outlines
+- [💥 News 💥](https://github.com/We-Math/We-Math/blob/main/README.md#-news-)
+- [👀 About We-Math](https://github.com/We-Math/We-Math/blob/main/README.md#-about-we-math)
+- [🏆 Leaderboard on We-Math 🏆](https://github.com/We-Math/We-Math/blob/main/README.md#-leaderboard-on-we-math-)
+- [📝 Evaluation Piplines on We-Math](https://github.com/We-Math/We-Math/blob/main/README.md#-evaluation-piplines-on-we-math)
+- [📊 We-Math Dataset](https://github.com/We-Math/We-Math/blob/main/README.md#-we-math-dataset)
+- [📜 License](https://github.com/We-Math/We-Math/blob/main/README.md#-license)
+- [🤝 Contributors](https://github.com/We-Math/We-Math/blob/main/README.md#-contributors)
 
 ## 👀 About We-Math
 Inspired by human-like mathematical reasoning, we introduce We-Math, the first benchmark specifically designed to <b>explore the problem-solving principles beyond the end-to-end performance.</b> We meticulously collect and categorize 6.5K visual math problems, spanning 67 hierarchical knowledge concepts and 5 layers of knowledge granularity.
