@@ -10,6 +10,13 @@
 
 
 ## 💥 News 💥
+
+**[2025.08.15]** 🌐 **We-Math 2.0 homepage is live at [we-math2.github.io](https://we-math2.github.io/)**. 🚀
+
+**[2025.08.15]** 📄 **We-Math 2.0 paper is now available on [arXiv](https://arxiv.org/abs/2508.10433)**. 🚀
+
+**[2025.08.15]** 📦 **We-Math 2.0 dataset is now available on [Hugging Face Datasets](https://huggingface.co/datasets/We-Math/We-Math2.0-Standard)**. 🚀
+
   **[2025.05.16]** 🎉 We-Math is accepted by ACL 2025 🎉
 
   **[2025.02.20]** 🎉 We-Math is officially supported by [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) for fast evalution 🚀.
