@@ -181,15 +181,14 @@ If you find **We-Math** useful for your your research and applications, please k
   biburl       = {https://dblp.org/rec/journals/corr/abs-2407-01284.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
+```
 
-@misc{qiao2025wemath2,
-      title={We-Math 2.0: A Versatile MathBook System for Incentivizing Visual Mathematical Reasoning}, 
-      author={Runqi Qiao and Qiuna Tan and Peiqing Yang and Yanzi Wang and Xiaowan Wang and Enhui Wan and Sitong Zhou and Guanting Dong and Yuchen Zeng and Yida Xu and Jie Wang and Chong Sun and Chen Li and Honggang Zhang},
-      year={2025},
-      eprint={2508.10433},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2508.10433}, 
+```
+@article{qiao2025we,
+  title={We-Math 2.0: A Versatile MathBook System for Incentivizing Visual Mathematical Reasoning},
+  author={Qiao, Runqi and Tan, Qiuna and Yang, Peiqing and Wang, Yanzi and Wang, Xiaowan and Wan, Enhui and Zhou, Sitong and Dong, Guanting and Zeng, Yuchen and Xu, Yida and others},
+  journal={arXiv preprint arXiv:2508.10433},
+  year={2025}
 }
 ```
 
