@@ -184,7 +184,7 @@ If you find **We-Math** useful for your your research and applications, please k
 ```
 
 ```
-@article{qiao2025we,
+@article{qiao2025wemath2,
   title={We-Math 2.0: A Versatile MathBook System for Incentivizing Visual Mathematical Reasoning},
   author={Qiao, Runqi and Tan, Qiuna and Yang, Peiqing and Wang, Yanzi and Wang, Xiaowan and Wan, Enhui and Zhou, Sitong and Dong, Guanting and Zeng, Yuchen and Xu, Yida and others},
   journal={arXiv preprint arXiv:2508.10433},
