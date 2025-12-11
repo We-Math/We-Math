@@ -149,41 +149,16 @@ Our dataset are distributed under the [CC BY-NC 4.0](https://creativecommons.org
 If you find **We-Math** useful for your your research and applications, please kindly cite using this BibTeX:
 
 ```bibtex
-@article{qiao2024wemath,
-  author       = {Runqi Qiao and
-                  Qiuna Tan and
-                  Guanting Dong and
-                  Minhui Wu and
-                  Chong Sun and
-                  Xiaoshuai Song and
-                  Zhuoma Gongque and
-                  Shanglin Lei and
-                  Zhe Wei and
-                  Miaoxuan Zhang and
-                  Runfeng Qiao and
-                  Yifan Zhang and
-                  Xiao Zong and
-                  Yida Xu and
-                  Muxi Diao and
-                  Zhimin Bao and
-                  Chen Li and
-                  Honggang Zhang},
-  title        = {We-Math: Does Your Large Multimodal Model Achieve Human-like Mathematical
-                  Reasoning?},
-  journal      = {CoRR},
-  volume       = {abs/2407.01284},
-  year         = {2024},
-  url          = {https://doi.org/10.48550/arXiv.2407.01284},
-  doi          = {10.48550/ARXIV.2407.01284},
-  eprinttype    = {arXiv},
-  eprint       = {2407.01284},
-  timestamp    = {Tue, 13 Aug 2024 12:02:59 +0200},
-  biburl       = {https://dblp.org/rec/journals/corr/abs-2407-01284.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+@inproceedings{qiao2025we,
+  title={We-math: Does your large multimodal model achieve human-like mathematical reasoning?},
+  author={Qiao, Runqi and Tan, Qiuna and Dong, Guanting and MinhuiWu, MinhuiWu and Sun, Chong and Song, Xiaoshuai and Wang, Jiapeng and GongQue, Zhuoma and Lei, Shanglin and Zhang, Yifan and others},
+  booktitle={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={20023--20070},
+  year={2025}
 }
 ```
 
-```
+```bibtex
 @article{qiao2025wemath2,
   title={We-Math 2.0: A Versatile MathBook System for Incentivizing Visual Mathematical Reasoning},
   author={Qiao, Runqi and Tan, Qiuna and Yang, Peiqing and Wang, Yanzi and Wang, Xiaowan and Wan, Enhui and Zhou, Sitong and Dong, Guanting and Zeng, Yuchen and Xu, Yida and others},
@@ -192,6 +167,14 @@ If you find **We-Math** useful for your your research and applications, please k
 }
 ```
 
+```bibtex
+@article{qiao2025v,
+  title={V-Thinker: Interactive Thinking with Images},
+  author={Qiao, Runqi and Tan, Qiuna and Yang, Minghan and Dong, Guanting and Yang, Peiqing and Lang, Shiqiang and Wan, Enhui and Wang, Xiaowan and Xu, Yida and Yang, Lan and others},
+  journal={arXiv preprint arXiv:2511.04460},
+  year={2025}
+}
+```
 
 ## 🤝 Contributors
 Here are the key contributors to this project:
